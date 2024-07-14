@@ -22,33 +22,37 @@
     ],
     "Certificates": [
       "CS50`s Introduction to Programming with Python. (issued January 2024)",
-      "Currently enrolled in an introduction to data science course with Python",
-      "I am currently pursuing my CCNA certification to advance my knowledge and expertise in networking technologies"
+      "Python for AI, Data Science, and Development. (issued July 2024)"
     ],
     "ExtracurricularActivities": [
       "Design team member at GDSC University of Batna 2 (since November 2023)",
-      "Design team leader at GDG Batna (since January 2024)",
-      "Founding Member of the Binary Castle Club at University of Batna 2"
+      "Design team leader at GDG Batna (since January 2024)"
     ]
   },
   "projects":[
     {
       "name": "GUI Qr Code Gen",
       "description": "A simple graphical user interface to facilitate generating qr codes.\nimplemented using:",
-      "technologies": ["PIL", "Qr", "PyQt6"],
-      "link": ""
+      "technologies": ["Python","PIL", "Qr", "PyQt6"],
+      "link": "https://github.com/hamza-rouabah/gui-qr-code-generator"
     },
     {
       "name": "Portfolio Website",
-      "description": "A simple static portfolio website to showcase my skills and provide more information about me. technology I used:",
+      "description": "A simple static portfolio website to showcase my skills and provide more information about me. technologeis I used:",
       "technologies": ["react","tailwindcss","figma"],
-      "link": ""
+      "link": "https://hamza-rouabah.tech/"
     },
     {
       "name": "EventMap Website",
-      "description": "some description about the project and the technologies used to implement it.",
-      "technologies": ["react","express","mongodb","tailwindcss","figma"],
+      "description": "An online platform that facilitates event management and participation, for clubs and students alike. this was a university project, in addition to the UI design, I helped write the project report with LaTex.",
+      "technologies": ["Figma","Adobe Illustrator","LaTex"],
       "link": ""
+    },
+    {
+      "name": "GUI Desktop Library Management System",
+      "description": "A simple GUI to streamline the process of library operations (selling, borrowing), this was a university project in an OOP course.",
+      "technologies": ["Python","PyQt6","SQL","After Effects", "Illustrator"],
+      "link": "https://github.com/hamza-rouabah/library-management-system"
     }
   ]
 }
